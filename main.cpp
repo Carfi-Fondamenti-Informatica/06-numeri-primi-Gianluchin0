@@ -3,9 +3,9 @@
 using namespace std;
 
 int main() {
-    int h;
-    cin >> h;
-    if (numeroprimo(h) == 0) {
+    int n;
+    cin >> n;
+    if (numeroprimo(n) == 0) {
         cout << "numero primo" << endl;
     }
     else {
