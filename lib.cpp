@@ -5,7 +5,7 @@ using namespace std;
 bool numeroprimo (int n) {
     int i=1, x;
     bool risultato;
-    if (n>1) {
+    if (n>1){
         do {
             i++;
             x = n%i;
