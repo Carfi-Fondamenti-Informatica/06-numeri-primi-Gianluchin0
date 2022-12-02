@@ -1,5 +1,5 @@
 #include <iostream>
-#include "lib.h"
+#include "lib.c"
 using namespace std;
 
 bool numeroprimo (int n) {
